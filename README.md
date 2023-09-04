@@ -10,7 +10,8 @@ a) Write the method scrambleWord, which takes a given word and returns a string 
 
 The following table shows several examples of words and their scrambled versions.
 
-![image](https://github.com/techarenz/CS.12.01-Tutorial.1.2.3/assets/57818506/fe1899b7-0278-4e21-9c33-fba0be7aa313)
+![image](https://github.com/techarenz/CS.12.01-Tutorial.1.2.3/assets/57818506/fde8ae36-b734-400e-b3c7-f415e5ffe93b)
+
 
 b) Write the method scrambleOrRemove, which replaces each word in the parameter wordList with its scrambled version and removes any words that are unchanged after scrambling. The relative ordering of the entries in wordList remains the same as before the call to scrambleOrRemove.
 
@@ -20,12 +21,14 @@ Before the call to scrambleOrRemove:
 
 wordList
 
-![image](https://github.com/techarenz/CS.12.01-Tutorial.1.2.3/assets/57818506/a438d38a-ec4b-4387-90c8-31497a0ff059)
+![image](https://github.com/techarenz/CS.12.01-Tutorial.1.2.3/assets/57818506/49a967bb-2d03-486a-8501-be4651d5eec0)
+
 
 After the call to scrambleOrRemove:
 
 wordList
 
-![image](https://github.com/techarenz/CS.12.01-Tutorial.1.2.3/assets/57818506/c4657dcd-c4b7-4b19-bae9-6b293ab911c0)
+![image](https://github.com/techarenz/CS.12.01-Tutorial.1.2.3/assets/57818506/2e7f0eeb-c5cc-407e-b866-20138159fdff)
+
 
 Implement both methods inside a class called Scramble. Declare each method as static. Your implementation must pass all of the tests in the ScrambleTest class (provided). 
